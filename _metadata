@@ -6,9 +6,9 @@ Does not add any new items. Chance to generate blunt version ~ 1/2. Art entirely
 Will not be compatible with any other mod that adds additional spear head variants, there are none that i could find, but if you experience a compatability issue let me know and i'll produce a patch ASAP.
 
 [url=community.playstarbound.com/threads/124193/]MEGATHREAD[/url]
-Find the server version on [url=https://github.com/IsaacHart/sbmod-qsarm]git.[/url]",
+Find the server version on [url=https://github.com/IsaacHart/sbmod-qsarmt]git.[/url]",
   "friendlyName" : "Quarterstaff Armory Tweaks",
   "link" : "community.playstarbound.com/threads/124193/",
-  "name" : "QSARM.IHC",
+  "name" : "QSARMT.IHC",
   "version" : "0.1"
 }
