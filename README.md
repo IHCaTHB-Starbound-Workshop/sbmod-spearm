@@ -1,4 +1,4 @@
-# sbmod-qsarmt
+# sbmod-spearmt
 
 Code licensed under GPLv3, file included
 
