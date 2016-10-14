@@ -1,4 +1,4 @@
-# sbmod-spearmt
+# sbmod-spearm
 
 Code licensed under GPLv3, file included
 
